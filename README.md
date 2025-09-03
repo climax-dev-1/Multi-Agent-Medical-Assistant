@@ -1,6 +1,4 @@
 <div align="center">
- 
-![logo](https://github.com/climax-dev-1/Multi-Agent-RAG-for-healthcare/blob/main/assets/logo_rounded.png)
 
 <h1 align="center"><strong>⚕️ Multi-Agent-Medical-Assistant :<h6 align="center">AI-powered multi-agentic system for medical diagnosis and assistance</h6></strong></h1>
 
