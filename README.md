@@ -1,6 +1,6 @@
 <div align="center">
  
-![logo](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/blob/main/assets/logo_rounded.png)
+![logo](https://github.com/climax-dev-1/Multi-Agent-RAG-for-healthcare/blob/main/assets/logo_rounded.png)
 
 <h1 align="center"><strong>⚕️ Multi-Agent-Medical-Assistant :<h6 align="center">AI-powered multi-agentic system for medical diagnosis and assistance</h6></strong></h1>
 
@@ -12,8 +12,8 @@
 ![Pydantic - Version](https://img.shields.io/badge/Pydantic-2.10+-red?style=for-the-badge&logo=pydantic)
 ![FastAPI - Version](https://img.shields.io/badge/FastAPI-0.115+-teal?style=for-the-badge&logo=fastapi)
 ![Docling - Version](https://img.shields.io/badge/Docling-3.1+-orange?style=for-the-badge&logo=docling)
-[![Generic badge](https://img.shields.io/badge/License-Apache-<COLOR>.svg?style=for-the-badge)](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/blob/main/LICENSE) 
-[![GitHub Issues](https://img.shields.io/github/issues/souvikmajumder26/Multi-Agent-Medical-Assistant.svg?style=for-the-badge)](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/issues)
+[![Generic badge](https://img.shields.io/badge/License-Apache-<COLOR>.svg?style=for-the-badge)](https://github.com/climax-dev-1/Multi-Agent-RAG-for-healthcare/blob/main/LICENSE) 
+[![GitHub Issues](https://img.shields.io/github/issues/climax-dev-1/Multi-Agent-RAG-for-healthcare.svg?style=for-the-badge)](https://github.com/climax-dev-1/Multi-Agent-RAG-for-healthcare/issues)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=for-the-badge)
 
 </div>
@@ -25,7 +25,7 @@
 > 1. **Document Processing Upgrade**: Unstructured.io has been replaced with Docling for document parsing and extraction of text, tables, and images to be embedded.
 > 2. **Enhanced RAG References**: Links to source documents and reference images present in reranked retrieved chunks stored in local storage are added to the bottom of the RAG responses.
 >
-> To use Unstructured.io based solution, refer release - [v2.0](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/tree/v2.0).
+> To use Unstructured.io based solution, refer release - [v2.0](https://github.com/climax-dev-1/Multi-Agent-RAG-for-healthcare/tree/v2.0).
  
 ## 📚 Table of Contents
 - [Overview](#overview)
@@ -75,11 +75,6 @@ For learners: Refer `agents/README.md` for detailed explanation of the agentic w
 
 ## 💫 Demo <a name="demo"></a>
 
-
-https://github.com/user-attachments/assets/d27d4a2e-1c7d-45e2-bbc5-b3d95ccd5b35
-
-
-If you like what you see and would want to support the project's developer, you can <a href="https://www.buymeacoffee.com/souvikmajumder" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> ! :)
 
 📂 **For an even more detailed demo video**: Check out [`Multi-Agent-Medical-Assistant-v1.9`](assets/Multi-Agent-Medical-Assistant-v1.9_Compressed.mp4). 📽️
 
@@ -182,7 +177,7 @@ If you like what you see and would want to support the project's developer, you 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant.git
+git clone https://github.com/climax-dev-1/Multi-Agent-RAG-for-healthcare.git
 cd Multi-Agent-Medical-Assistant
 ```
 
@@ -294,7 +289,7 @@ docker logs medical-assistant-app
 
 ### 1️⃣ Clone the Repository  
 ```bash  
-git clone https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant.git  
+git clone https://github.com/climax-dev-1/Multi-Agent-RAG-for-healthcare.git  
 cd Multi-Agent-Medical-Assistant  
 ```
 
@@ -325,7 +320,7 @@ pip install -r requirements.txt
 ```
 - If using python venv:
 ```bash
-winget install ffmpeg
+winget install ffmpeg
 ```
 ```bash
 pip install -r requirements.txt  
@@ -370,7 +365,7 @@ python ingest_rag_data.py --dir ./data/raw
 ---
 
 ## 🤝 Contributions  <a name="contributions"></a>
-Contributions are welcome! Please check the [issues](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/issues) tab for feature requests and improvements.  
+Contributions are welcome! Please check the [issues](https://github.com/climax-dev-1/Multi-Agent-RAG-for-healthcare/issues) tab for feature requests and improvements.  
 
 ---
 
@@ -381,27 +376,13 @@ This project is licensed under the **Apache-2.0 License**. See the [LICENSE](LIC
 
 ## 📝 Citing <a name="citing"></a>
 ```
-@misc{Souvik2025,
-  Author = {Souvik Majumder},
+@misc{Climax2025,
+  Author = {Climax Dev},
   Title = {Multi Agent Medical Assistant},
   Year = {2025},
   Publisher = {GitHub},
   Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant}}
+  Howpublished = {\url{https://github.com/climax-dev-1/Multi-Agent-RAG-for-healthcare}}
 }
 ```
 
----
-
-## 📬 Contact  <a name="contact"></a>
-For any questions or collaboration inquiries, reach out to **Souvik Majumder** on:  
-
-🔗 **LinkedIn**: [https://www.linkedin.com/in/souvikmajumder26](https://www.linkedin.com/in/souvikmajumder26)
-
-🔗 **GitHub**: [https://github.com/souvikmajumder26](https://github.com/souvikmajumder26)
-
-<p align="right">
- <a href="#top"><b>🔝 Return </b></a>
-</p>
-
----
